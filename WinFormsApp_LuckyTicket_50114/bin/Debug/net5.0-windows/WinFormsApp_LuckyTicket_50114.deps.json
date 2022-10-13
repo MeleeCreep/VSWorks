@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WinFormsApp_LuckyTicket_50114/1.0.0": {
+        "runtime": {
+          "WinFormsApp_LuckyTicket_50114.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsApp_LuckyTicket_50114/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
